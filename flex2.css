@@ -1,0 +1,60 @@
+#img1{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.FBC{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:whitesmoke;
+    height: 380px;
+    width: 98%;
+    border-radius: 10px;
+    border:10px solid burlywood;
+    box-shadow: 4px 4px 6px  rgb(216, 144, 144);
+}
+.FB{
+    display: flex;
+    gap: 175px;
+    margin: 25px;
+}
+.FB2{
+    display: flex;
+    gap: 175px;
+    margin: 25px;
+}
+.box1{
+    display: flex;
+    gap: 10px;
+}
+.box2{
+    display: flex;
+    gap: 10px;
+}
+.box3{
+    display: flex;
+    gap: 10px;
+}
+.box4{
+    display: flex;
+    gap: 10px;
+}
+.box5{
+    display: flex;
+    gap: 20px;
+}
+.box6{
+    display: flex;
+    gap: 20px;
+}
+.box7{
+    display: flex;
+    gap: 8px;
+}
+.box8{
+    display: flex;
+    gap: 10px;
+}
+#text1{
+    margin-top: 7px;
+}
